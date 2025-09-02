@@ -10,7 +10,7 @@
 
 
 
-![stats](https://github-readme-stats.vercel.app/api?username=Karambit569&count_private=true&show_icons=true)
+![stats](https://github-readme-stats.vercel.app/api?username=Karambit569&count_private=true&show_icons=false)
 ![top-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Karambit569&layout=compact&langs_count=7)
 --
 ![discord](https://img.shields.io/static/v1?label=karambit_furry&message=%20&color=skyblue&logo=discord&style=flat-square&logoColor=white)
