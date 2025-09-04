@@ -2,7 +2,8 @@
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-FF6F00?style=flat-square&logo=matrix&logoColor=white)
+
 
 ### HDL
 ![Verilog](https://img.shields.io/badge/-Verilog-8A2BE2?style=flat-square&logo=circuitverse&logoColor=white)
