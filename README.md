@@ -4,11 +4,8 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-FF6F00?style=flat-square&logo=matrix&logoColor=white)
 
-
 ### HDL
 ![Verilog](https://img.shields.io/badge/-Verilog-8A2BE2?style=flat-square&logo=circuitverse&logoColor=white)
-
-
 
 ### Hardware
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)](https://www.arduino.cc)
