@@ -16,8 +16,8 @@
 
 
 
-![stats](https://github-readme-stats.vercel.app/api?username=Karambit569&show_icons=false&theme=synthwave&count_private=true&cache_seconds=1800)
-![top-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Karambit569&layout=compact&langs_count=6&theme=synthwave&cache_seconds=1800)
+![stats](https://github-readme-stats.vercel.app/api?username=Karambit569&show_icons=false&theme=radical&count_private=true&cache_seconds=1800)
+![top-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Karambit569&layout=compact&langs_count=6&theme=radical&cache_seconds=1800)
 
 
 ![discord](https://img.shields.io/static/v1?label=karambit_furry&message=%20&color=skyblue&logo=discord&style=flat-square&logoColor=white)
