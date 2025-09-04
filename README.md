@@ -16,7 +16,7 @@
 
 
 
-![stats](https://github-readme-stats.vercel.app/api?username=Karambit569&show_icons=false&theme=radical&count_private=true&cache_seconds=1800)
+![stats](https://github-readme-stats.vercel.app/api?username=Karambit569&show_icons_true&theme=radical&count_private=true&cache_seconds=1800)
 ![top-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Karambit569&layout=compact&langs_count=6&theme=radical&cache_seconds=1800)
 
 
