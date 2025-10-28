@@ -14,7 +14,7 @@
 
 
 
-![stats](https://github-readme-stats.vercel.app/api?username=Karambit569&show_icons=true&theme=catppuccin_mocha&count_private=true&cache_seconds=3001)
+![stats](https://github-readme-stats.vercel.app/api?username=Karambit569&show_icons=true&theme=catppuccin_mocha&count_private=true&cache_seconds=3000)
 ![top-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Karambit569&layout=compact&langs_count=6&theme=catppuccin_mocha&cache_seconds=3001)
 
 
