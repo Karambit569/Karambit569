@@ -5,19 +5,18 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FF6F00?style=flat-square&logo=javascript&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-JD89DA?style=flat-square&logo=matrix&logoColor=white)
 
+### Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
 ### HDL
 ![Verilog](https://img.shields.io/badge/-Verilog-8A2BE2?style=flat-square&logo=circuitverse&logoColor=white)
 
 ### Hardware
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)](https://www.arduino.cc)
 
-
-
-
 ![stats](https://github-readme-stats.vercel.app/api?username=Karambit569&show_icons=true&theme=catppuccin_mocha&count_private=true&cache_seconds=3001)
 ![top-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Karambit569&layout=compact&langs_count=6&theme=catppuccin_mocha&cache_seconds=3000)
-
-
 
 ![discord](https://img.shields.io/static/v1?label=karambit_furry&message=%20&color=skyblue&logo=discord&style=flat-square&logoColor=white)
 ![email](https://img.shields.io/static/v1?label=diggertv569@gmail.com&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)
