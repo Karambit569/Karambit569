@@ -1,7 +1,7 @@
 ### Languages
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-FF6F00?style=flat-square&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-JD89DA?style=flat-square&logo=matrix&logoColor=white)
 
 ### Frontend
